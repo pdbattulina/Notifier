@@ -1,0 +1,14 @@
+.env
+client_secret.json
+tokens/
+
+*.db
+*.sqlite3
+*.log
+
+venv/
+
+__pycache__/
+*.pyc
+
+.DS_Store
